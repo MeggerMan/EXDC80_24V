@@ -44,7 +44,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Sheet
-S 3600 1950 500  150 
+S 2700 5500 500  150 
 U 5BC131BD
 F0 "Sheet5BC131BC" 60
 F1 "file5BC131BC.sch" 60

@@ -107,10 +107,10 @@
     (add_net "Net-(VR1-Pad3)")
   )
 
-  (module digikey-footprints:SOT-23-3 (layer F.Cu) (tedit 59D275F3) (tstamp 5BC17457)
+  (module digikey-footprints:SOT-23-3 (layer F.Cu) (tedit 5BF9F5B7) (tstamp 5BC17457)
     (at 148.5011 105.0036)
     (path /5BC139AF)
-    (fp_text reference VR1 (at 0.025 -3.375) (layer F.SilkS)
+    (fp_text reference VR1 (at -0.5461 -3.4036) (layer F.SilkS)
       (effects (font (size 1 1) (thickness 0.15)))
     )
     (fp_text value REF3030AIDBZR (at 0.025 3.25) (layer F.Fab)
