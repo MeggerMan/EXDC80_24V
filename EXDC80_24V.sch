@@ -28,11 +28,12 @@ LIBS:opto
 LIBS:atmel
 LIBS:contrib
 LIBS:valves
+LIBS:EXDC80_24V-cache
 EELAYER 25 0
 EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
-Sheet 1 1
+Sheet 1 2
 Title ""
 Date ""
 Rev ""
@@ -43,7 +44,7 @@ Comment3 ""
 Comment4 ""
 $EndDescr
 $Sheet
-S 3100 3200 500  150 
+S 3600 1950 500  150 
 U 5BC131BD
 F0 "Sheet5BC131BC" 60
 F1 "file5BC131BC.sch" 60
